@@ -1,4 +1,4 @@
-$commandUrl = "https://jgerell.github.io/operation_red_monkey/command.txt"
+$commandUrl = "https://eliasadenas.github.io/ORM/command.txt"
 
 # Klistra in din egna RAW-länk från din GitHub Gist här under:
 $GistRawUrl = "" 
